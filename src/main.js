@@ -1,1 +1,1 @@
-alert('e seja feliz')
+alert('e seja feliz!');
