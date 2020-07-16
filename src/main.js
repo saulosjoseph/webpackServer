@@ -1,0 +1,1 @@
+alert('e seja feliz')
