@@ -1,1 +1,1 @@
-webpackServer
+simple app with babel and webpack
